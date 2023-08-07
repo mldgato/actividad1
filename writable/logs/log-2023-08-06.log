@@ -1,0 +1,536 @@
+CRITICAL - 2023-08-06 02:27:18 --> mysqli_result::fetch_object(): Argument #1 ($class) must be a valid class name, App\Models\Type given
+in SYSTEMPATH\Database\MySQLi\Result.php on line 154.
+ 1 SYSTEMPATH\Database\MySQLi\Result.php(154): mysqli_result->fetch_object('App\\Models\\Type')
+ 2 SYSTEMPATH\Database\BaseResult.php(159): CodeIgniter\Database\MySQLi\Result->fetchObject('App\\Models\\Type')
+ 3 SYSTEMPATH\Database\BaseResult.php(114): CodeIgniter\Database\BaseResult->getCustomResultObject('App\\Models\\Type')
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseResult->getResult('App\\Models\\Type')
+ 5 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\RegionController.php(13): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\RegionController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionController))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 02:28:15 --> mysqli_result::fetch_object(): Argument #1 ($class) must be a valid class name, App\Models\Type given
+in SYSTEMPATH\Database\MySQLi\Result.php on line 154.
+ 1 SYSTEMPATH\Database\MySQLi\Result.php(154): mysqli_result->fetch_object('App\\Models\\Type')
+ 2 SYSTEMPATH\Database\BaseResult.php(159): CodeIgniter\Database\MySQLi\Result->fetchObject('App\\Models\\Type')
+ 3 SYSTEMPATH\Database\BaseResult.php(114): CodeIgniter\Database\BaseResult->getCustomResultObject('App\\Models\\Type')
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseResult->getResult('App\\Models\\Type')
+ 5 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\RegionController.php(13): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\RegionController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionController))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 02:33:54 --> mysqli_result::fetch_object(): Argument #1 ($class) must be a valid class name, App\Models\Type given
+in SYSTEMPATH\Database\MySQLi\Result.php on line 154.
+ 1 SYSTEMPATH\Database\MySQLi\Result.php(154): mysqli_result->fetch_object('App\\Models\\Type')
+ 2 SYSTEMPATH\Database\BaseResult.php(159): CodeIgniter\Database\MySQLi\Result->fetchObject('App\\Models\\Type')
+ 3 SYSTEMPATH\Database\BaseResult.php(114): CodeIgniter\Database\BaseResult->getCustomResultObject('App\\Models\\Type')
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseResult->getResult('App\\Models\\Type')
+ 5 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\RegionController.php(13): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\RegionController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionController))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 02:33:55 --> mysqli_result::fetch_object(): Argument #1 ($class) must be a valid class name, App\Models\Type given
+in SYSTEMPATH\Database\MySQLi\Result.php on line 154.
+ 1 SYSTEMPATH\Database\MySQLi\Result.php(154): mysqli_result->fetch_object('App\\Models\\Type')
+ 2 SYSTEMPATH\Database\BaseResult.php(159): CodeIgniter\Database\MySQLi\Result->fetchObject('App\\Models\\Type')
+ 3 SYSTEMPATH\Database\BaseResult.php(114): CodeIgniter\Database\BaseResult->getCustomResultObject('App\\Models\\Type')
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseResult->getResult('App\\Models\\Type')
+ 5 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\RegionController.php(13): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\RegionController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionController))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 02:33:55 --> mysqli_result::fetch_object(): Argument #1 ($class) must be a valid class name, App\Models\Type given
+in SYSTEMPATH\Database\MySQLi\Result.php on line 154.
+ 1 SYSTEMPATH\Database\MySQLi\Result.php(154): mysqli_result->fetch_object('App\\Models\\Type')
+ 2 SYSTEMPATH\Database\BaseResult.php(159): CodeIgniter\Database\MySQLi\Result->fetchObject('App\\Models\\Type')
+ 3 SYSTEMPATH\Database\BaseResult.php(114): CodeIgniter\Database\BaseResult->getCustomResultObject('App\\Models\\Type')
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseResult->getResult('App\\Models\\Type')
+ 5 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\RegionController.php(13): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\RegionController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionController))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 02:33:55 --> mysqli_result::fetch_object(): Argument #1 ($class) must be a valid class name, App\Models\Type given
+in SYSTEMPATH\Database\MySQLi\Result.php on line 154.
+ 1 SYSTEMPATH\Database\MySQLi\Result.php(154): mysqli_result->fetch_object('App\\Models\\Type')
+ 2 SYSTEMPATH\Database\BaseResult.php(159): CodeIgniter\Database\MySQLi\Result->fetchObject('App\\Models\\Type')
+ 3 SYSTEMPATH\Database\BaseResult.php(114): CodeIgniter\Database\BaseResult->getCustomResultObject('App\\Models\\Type')
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseResult->getResult('App\\Models\\Type')
+ 5 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\RegionController.php(13): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\RegionController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionController))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 02:33:56 --> mysqli_result::fetch_object(): Argument #1 ($class) must be a valid class name, App\Models\Type given
+in SYSTEMPATH\Database\MySQLi\Result.php on line 154.
+ 1 SYSTEMPATH\Database\MySQLi\Result.php(154): mysqli_result->fetch_object('App\\Models\\Type')
+ 2 SYSTEMPATH\Database\BaseResult.php(159): CodeIgniter\Database\MySQLi\Result->fetchObject('App\\Models\\Type')
+ 3 SYSTEMPATH\Database\BaseResult.php(114): CodeIgniter\Database\BaseResult->getCustomResultObject('App\\Models\\Type')
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseResult->getResult('App\\Models\\Type')
+ 5 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\RegionController.php(13): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\RegionController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionController))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 02:33:56 --> mysqli_result::fetch_object(): Argument #1 ($class) must be a valid class name, App\Models\Type given
+in SYSTEMPATH\Database\MySQLi\Result.php on line 154.
+ 1 SYSTEMPATH\Database\MySQLi\Result.php(154): mysqli_result->fetch_object('App\\Models\\Type')
+ 2 SYSTEMPATH\Database\BaseResult.php(159): CodeIgniter\Database\MySQLi\Result->fetchObject('App\\Models\\Type')
+ 3 SYSTEMPATH\Database\BaseResult.php(114): CodeIgniter\Database\BaseResult->getCustomResultObject('App\\Models\\Type')
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseResult->getResult('App\\Models\\Type')
+ 5 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\RegionController.php(13): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\RegionController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionController))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 02:33:56 --> mysqli_result::fetch_object(): Argument #1 ($class) must be a valid class name, App\Models\Type given
+in SYSTEMPATH\Database\MySQLi\Result.php on line 154.
+ 1 SYSTEMPATH\Database\MySQLi\Result.php(154): mysqli_result->fetch_object('App\\Models\\Type')
+ 2 SYSTEMPATH\Database\BaseResult.php(159): CodeIgniter\Database\MySQLi\Result->fetchObject('App\\Models\\Type')
+ 3 SYSTEMPATH\Database\BaseResult.php(114): CodeIgniter\Database\BaseResult->getCustomResultObject('App\\Models\\Type')
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseResult->getResult('App\\Models\\Type')
+ 5 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\RegionController.php(13): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\RegionController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionController))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 02:34:04 --> mysqli_result::fetch_object(): Argument #1 ($class) must be a valid class name, App\Models\Type given
+in SYSTEMPATH\Database\MySQLi\Result.php on line 154.
+ 1 SYSTEMPATH\Database\MySQLi\Result.php(154): mysqli_result->fetch_object('App\\Models\\Type')
+ 2 SYSTEMPATH\Database\BaseResult.php(159): CodeIgniter\Database\MySQLi\Result->fetchObject('App\\Models\\Type')
+ 3 SYSTEMPATH\Database\BaseResult.php(114): CodeIgniter\Database\BaseResult->getCustomResultObject('App\\Models\\Type')
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseResult->getResult('App\\Models\\Type')
+ 5 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\RegionController.php(13): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\RegionController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionController))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 02:34:05 --> mysqli_result::fetch_object(): Argument #1 ($class) must be a valid class name, App\Models\Type given
+in SYSTEMPATH\Database\MySQLi\Result.php on line 154.
+ 1 SYSTEMPATH\Database\MySQLi\Result.php(154): mysqli_result->fetch_object('App\\Models\\Type')
+ 2 SYSTEMPATH\Database\BaseResult.php(159): CodeIgniter\Database\MySQLi\Result->fetchObject('App\\Models\\Type')
+ 3 SYSTEMPATH\Database\BaseResult.php(114): CodeIgniter\Database\BaseResult->getCustomResultObject('App\\Models\\Type')
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseResult->getResult('App\\Models\\Type')
+ 5 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\RegionController.php(13): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\RegionController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionController))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 02:35:51 --> mysqli_result::fetch_object(): Argument #1 ($class) must be a valid class name, App\Models\Type given
+in SYSTEMPATH\Database\MySQLi\Result.php on line 154.
+ 1 SYSTEMPATH\Database\MySQLi\Result.php(154): mysqli_result->fetch_object('App\\Models\\Type')
+ 2 SYSTEMPATH\Database\BaseResult.php(159): CodeIgniter\Database\MySQLi\Result->fetchObject('App\\Models\\Type')
+ 3 SYSTEMPATH\Database\BaseResult.php(114): CodeIgniter\Database\BaseResult->getCustomResultObject('App\\Models\\Type')
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseResult->getResult('App\\Models\\Type')
+ 5 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\RegionController.php(13): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\RegionController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionController))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 02:41:22 --> mysqli_result::fetch_object(): Argument #1 ($class) must be a valid class name, App\Models\Type given
+in SYSTEMPATH\Database\MySQLi\Result.php on line 154.
+ 1 SYSTEMPATH\Database\MySQLi\Result.php(154): mysqli_result->fetch_object('App\\Models\\Type')
+ 2 SYSTEMPATH\Database\BaseResult.php(159): CodeIgniter\Database\MySQLi\Result->fetchObject('App\\Models\\Type')
+ 3 SYSTEMPATH\Database\BaseResult.php(114): CodeIgniter\Database\BaseResult->getCustomResultObject('App\\Models\\Type')
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseResult->getResult('App\\Models\\Type')
+ 5 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\RegionController.php(13): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\RegionController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionController))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 02:45:13 --> mysqli_result::fetch_object(): Argument #1 ($class) must be a valid class name, App\Models\Type given
+in SYSTEMPATH\Database\MySQLi\Result.php on line 154.
+ 1 SYSTEMPATH\Database\MySQLi\Result.php(154): mysqli_result->fetch_object('App\\Models\\Type')
+ 2 SYSTEMPATH\Database\BaseResult.php(159): CodeIgniter\Database\MySQLi\Result->fetchObject('App\\Models\\Type')
+ 3 SYSTEMPATH\Database\BaseResult.php(114): CodeIgniter\Database\BaseResult->getCustomResultObject('App\\Models\\Type')
+ 4 SYSTEMPATH\Model.php(242): CodeIgniter\Database\BaseResult->getResult('App\\Models\\Type')
+ 5 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 6 APPPATH\Controllers\RegionController.php(13): CodeIgniter\BaseModel->findAll()
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\RegionController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionController))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 03:00:12 --> include_once(../templates/head.php): Failed to open stream: No such file or directory
+in APPPATH\Views\regiones\index.php on line 1.
+ 1 APPPATH\Views\regiones\index.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include_once(../templates/head.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\tarea1\\app\\Views\\regiones\\index.php', 1)
+ 2 APPPATH\Views\regiones\index.php(1): include_once()
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\tarea1\\app\\Views\\regiones\\index.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('regiones/index', [], true)
+ 6 APPPATH\Controllers\RegionController.php(16): view('regiones/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\RegionController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionController))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 03:01:07 --> include_once(../templates/head.php): Failed to open stream: No such file or directory
+in APPPATH\Views\regiones\index.php on line 1.
+ 1 APPPATH\Views\regiones\index.php(1): CodeIgniter\Debug\Exceptions->errorHandler(2, 'include_once(../templates/head.php): Failed to open stream: No such file or directory', 'C:\\xampp\\htdocs\\tarea1\\app\\Views\\regiones\\index.php', 1)
+ 2 APPPATH\Views\regiones\index.php(1): include_once()
+ 3 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\tarea1\\app\\Views\\regiones\\index.php')
+ 4 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 5 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('regiones/index', [], true)
+ 6 APPPATH\Controllers\RegionController.php(16): view('regiones/index', [...])
+ 7 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\RegionController->index()
+ 8 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionController))
+ 9 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 03:12:32 --> Cannot use object of type App\Entities\Region as array
+in APPPATH\Views\regiones\index.php on line 45.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('regiones/index', [], true)
+ 4 APPPATH\Controllers\RegionController.php(16): view('regiones/index', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\RegionController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionController))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 03:14:23 --> Cannot use object of type App\Entities\Region as array
+in APPPATH\Views\regiones\index.php on line 50.
+ 1 SYSTEMPATH\View\View.php(224): include()
+ 2 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('regiones/index', [], true)
+ 4 APPPATH\Controllers\RegionController.php(16): view('regiones/index', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\RegionController->index()
+ 6 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionController))
+ 7 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 03:35:52 --> Invalid file: "regiones/.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('regiones/.php')
+ 2 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('regiones/', [], true)
+ 3 APPPATH\Controllers\RegionController.php(16): view('regiones/', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\RegionController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionController))
+ 6 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 03:43:07 --> Undefined variable $regiones
+in APPPATH\Views\regiones\index.php on line 43.
+ 1 APPPATH\Views\regiones\index.php(43): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $regiones', 'C:\\xampp\\htdocs\\tarea1\\app\\Views\\regiones\\index.php', 43)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\tarea1\\app\\Views\\regiones\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('regiones/index', [], true)
+ 5 APPPATH\Controllers\RegionController.php(98): view('regiones/index')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\RegionController->delete('19')
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 04:12:23 --> Attempt to read property "nombre" on null
+in APPPATH\Views\departamentos\index.php on line 47.
+ 1 APPPATH\Views\departamentos\index.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nombre" on null', 'C:\\xampp\\htdocs\\tarea1\\app\\Views\\departamentos\\index.php', 47)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\tarea1\\app\\Views\\departamentos\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('departamentos/index', [], true)
+ 5 APPPATH\Controllers\DepartamentoController.php(16): view('departamentos/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\DepartamentoController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DepartamentoController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 04:13:31 --> Attempt to read property "nombre" on null
+in APPPATH\Views\departamentos\index.php on line 47.
+ 1 APPPATH\Views\departamentos\index.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nombre" on null', 'C:\\xampp\\htdocs\\tarea1\\app\\Views\\departamentos\\index.php', 47)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\tarea1\\app\\Views\\departamentos\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('departamentos/index', [], true)
+ 5 APPPATH\Controllers\DepartamentoController.php(16): view('departamentos/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\DepartamentoController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DepartamentoController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 04:15:44 --> Attempt to read property "nombre" on null
+in APPPATH\Views\departamentos\index.php on line 47.
+ 1 APPPATH\Views\departamentos\index.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nombre" on null', 'C:\\xampp\\htdocs\\tarea1\\app\\Views\\departamentos\\index.php', 47)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\tarea1\\app\\Views\\departamentos\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('departamentos/index', [], true)
+ 5 APPPATH\Controllers\DepartamentoController.php(16): view('departamentos/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\DepartamentoController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DepartamentoController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 04:23:00 --> Call to undefined method App\Models\DepartamentoModel::with
+in SYSTEMPATH\Model.php on line 838.
+ 1 APPPATH\Controllers\DepartamentoController.php(13): CodeIgniter\Model->__call('with', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\DepartamentoController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DepartamentoController))
+ 4 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 04:27:00 --> Attempt to read property "nombre" on null
+in APPPATH\Views\departamentos\index.php on line 47.
+ 1 APPPATH\Views\departamentos\index.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "nombre" on null', 'C:\\xampp\\htdocs\\tarea1\\app\\Views\\departamentos\\index.php', 47)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\tarea1\\app\\Views\\departamentos\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('departamentos/index', [], true)
+ 5 APPPATH\Controllers\DepartamentoController.php(16): view('departamentos/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\DepartamentoController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DepartamentoController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 04:46:11 --> Undefined variable $departamentoModel
+in APPPATH\Views\departamentos\index.php on line 47.
+ 1 APPPATH\Views\departamentos\index.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $departamentoModel', 'C:\\xampp\\htdocs\\tarea1\\app\\Views\\departamentos\\index.php', 47)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\tarea1\\app\\Views\\departamentos\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('departamentos/index', [], true)
+ 5 APPPATH\Controllers\DepartamentoController.php(16): view('departamentos/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\DepartamentoController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DepartamentoController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 05:01:42 --> Attempt to read property "cod_depto" on array
+in APPPATH\Views\departamentos\index.php on line 45.
+ 1 APPPATH\Views\departamentos\index.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "cod_depto" on array', 'C:\\xampp\\htdocs\\tarea1\\app\\Views\\departamentos\\index.php', 45)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\tarea1\\app\\Views\\departamentos\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('departamentos/index', [], true)
+ 5 APPPATH\Controllers\DepartamentoController.php(16): view('departamentos/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\DepartamentoController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DepartamentoController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 05:02:13 --> Attempt to read property "cod_depto" on array
+in APPPATH\Views\departamentos\index.php on line 45.
+ 1 APPPATH\Views\departamentos\index.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "cod_depto" on array', 'C:\\xampp\\htdocs\\tarea1\\app\\Views\\departamentos\\index.php', 45)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\tarea1\\app\\Views\\departamentos\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('departamentos/index', [], true)
+ 5 APPPATH\Controllers\DepartamentoController.php(16): view('departamentos/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\DepartamentoController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DepartamentoController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 05:02:14 --> Attempt to read property "cod_depto" on array
+in APPPATH\Views\departamentos\index.php on line 45.
+ 1 APPPATH\Views\departamentos\index.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "cod_depto" on array', 'C:\\xampp\\htdocs\\tarea1\\app\\Views\\departamentos\\index.php', 45)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\tarea1\\app\\Views\\departamentos\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('departamentos/index', [], true)
+ 5 APPPATH\Controllers\DepartamentoController.php(16): view('departamentos/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\DepartamentoController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DepartamentoController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 05:02:15 --> Attempt to read property "cod_depto" on array
+in APPPATH\Views\departamentos\index.php on line 45.
+ 1 APPPATH\Views\departamentos\index.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "cod_depto" on array', 'C:\\xampp\\htdocs\\tarea1\\app\\Views\\departamentos\\index.php', 45)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\tarea1\\app\\Views\\departamentos\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('departamentos/index', [], true)
+ 5 APPPATH\Controllers\DepartamentoController.php(16): view('departamentos/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\DepartamentoController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DepartamentoController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 05:02:15 --> Attempt to read property "cod_depto" on array
+in APPPATH\Views\departamentos\index.php on line 45.
+ 1 APPPATH\Views\departamentos\index.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "cod_depto" on array', 'C:\\xampp\\htdocs\\tarea1\\app\\Views\\departamentos\\index.php', 45)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\tarea1\\app\\Views\\departamentos\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('departamentos/index', [], true)
+ 5 APPPATH\Controllers\DepartamentoController.php(16): view('departamentos/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\DepartamentoController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DepartamentoController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 05:02:15 --> Attempt to read property "cod_depto" on array
+in APPPATH\Views\departamentos\index.php on line 45.
+ 1 APPPATH\Views\departamentos\index.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "cod_depto" on array', 'C:\\xampp\\htdocs\\tarea1\\app\\Views\\departamentos\\index.php', 45)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\tarea1\\app\\Views\\departamentos\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('departamentos/index', [], true)
+ 5 APPPATH\Controllers\DepartamentoController.php(16): view('departamentos/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\DepartamentoController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DepartamentoController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 05:02:16 --> Attempt to read property "cod_depto" on array
+in APPPATH\Views\departamentos\index.php on line 45.
+ 1 APPPATH\Views\departamentos\index.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "cod_depto" on array', 'C:\\xampp\\htdocs\\tarea1\\app\\Views\\departamentos\\index.php', 45)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\tarea1\\app\\Views\\departamentos\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('departamentos/index', [], true)
+ 5 APPPATH\Controllers\DepartamentoController.php(16): view('departamentos/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\DepartamentoController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DepartamentoController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 05:02:16 --> Attempt to read property "cod_depto" on array
+in APPPATH\Views\departamentos\index.php on line 45.
+ 1 APPPATH\Views\departamentos\index.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "cod_depto" on array', 'C:\\xampp\\htdocs\\tarea1\\app\\Views\\departamentos\\index.php', 45)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\tarea1\\app\\Views\\departamentos\\index.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('departamentos/index', [], true)
+ 5 APPPATH\Controllers\DepartamentoController.php(16): view('departamentos/index', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\DepartamentoController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DepartamentoController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 05:35:03 --> Undefined variable $regiones
+in APPPATH\Views\departamentos\create.php on line 47.
+ 1 APPPATH\Views\departamentos\create.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $regiones', 'C:\\xampp\\htdocs\\tarea1\\app\\Views\\departamentos\\create.php', 47)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\tarea1\\app\\Views\\departamentos\\create.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('departamentos/create', [], true)
+ 5 APPPATH\Controllers\DepartamentoController.php(44): view('departamentos/create')
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\DepartamentoController->store()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DepartamentoController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-08-06 13:18:01 --> Error connecting to the database: mysqli_sql_exception: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión in C:\xampp\htdocs\tarea1\system\Database\MySQLi\Connection.php:173
+Stack trace:
+#0 C:\xampp\htdocs\tarea1\system\Database\MySQLi\Connection.php(173): mysqli->real_connect('localhost', 'root', Object(SensitiveParameterValue), 'pp2023_ciudadan...', 3306, '', 0)
+#1 C:\xampp\htdocs\tarea1\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#2 C:\xampp\htdocs\tarea1\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#3 C:\xampp\htdocs\tarea1\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\tarea1\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\tarea1\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\tarea1\app\Controllers\RegionController.php(13): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\tarea1\system\CodeIgniter.php(932): App\Controllers\RegionController->index()
+#8 C:\xampp\htdocs\tarea1\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionController))
+#9 C:\xampp\htdocs\tarea1\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\tarea1\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+
+Next CodeIgniter\Database\Exceptions\DatabaseException: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión in C:\xampp\htdocs\tarea1\system\Database\MySQLi\Connection.php:218
+Stack trace:
+#0 C:\xampp\htdocs\tarea1\system\Database\BaseConnection.php(391): CodeIgniter\Database\MySQLi\Connection->connect(false)
+#1 C:\xampp\htdocs\tarea1\system\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+#2 C:\xampp\htdocs\tarea1\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#3 C:\xampp\htdocs\tarea1\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#4 C:\xampp\htdocs\tarea1\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#5 C:\xampp\htdocs\tarea1\app\Controllers\RegionController.php(13): CodeIgniter\BaseModel->findAll()
+#6 C:\xampp\htdocs\tarea1\system\CodeIgniter.php(932): App\Controllers\RegionController->index()
+#7 C:\xampp\htdocs\tarea1\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionController))
+#8 C:\xampp\htdocs\tarea1\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\tarea1\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-08-06 13:18:01 --> Unable to connect to the database.
+Main connection [MySQLi]: No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión
+in SYSTEMPATH\Database\BaseConnection.php on line 427.
+ 1 SYSTEMPATH\Database\BaseConnection.php(574): CodeIgniter\Database\BaseConnection->initialize()
+ 2 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `regiones`', [], false)
+ 3 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 4 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 5 APPPATH\Controllers\RegionController.php(13): CodeIgniter\BaseModel->findAll()
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\RegionController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-08-06 13:49:05 --> mysqli_sql_exception: Table 'pp2023_ciudadanos.regiones' doesn't exist in engine in C:\xampp\htdocs\tarea1\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\tarea1\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\tarea1\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\tarea1\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\tarea1\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\tarea1\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\tarea1\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\tarea1\app\Controllers\RegionController.php(13): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\tarea1\system\CodeIgniter.php(932): App\Controllers\RegionController->index()
+#8 C:\xampp\htdocs\tarea1\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionController))
+#9 C:\xampp\htdocs\tarea1\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\tarea1\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-08-06 13:49:05 --> Table 'pp2023_ciudadanos.regiones' doesn't exist in engine
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `regiones`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `regiones`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `regiones`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `regiones`', [], false)
+ 5 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\RegionController.php(13): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\RegionController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionController))
+10 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-08-06 13:49:39 --> mysqli_sql_exception: Table 'pp2023_ciudadanos.regiones' doesn't exist in engine in C:\xampp\htdocs\tarea1\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\tarea1\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\tarea1\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\tarea1\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\tarea1\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\tarea1\system\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\tarea1\system\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+#6 C:\xampp\htdocs\tarea1\app\Controllers\RegionController.php(13): CodeIgniter\BaseModel->findAll()
+#7 C:\xampp\htdocs\tarea1\system\CodeIgniter.php(932): App\Controllers\RegionController->index()
+#8 C:\xampp\htdocs\tarea1\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionController))
+#9 C:\xampp\htdocs\tarea1\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\xampp\htdocs\tarea1\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-08-06 13:49:39 --> Table 'pp2023_ciudadanos.regiones' doesn't exist in engine
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT *
+FROM `regiones`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `regiones`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `regiones`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `regiones`', [], false)
+ 5 SYSTEMPATH\Model.php(241): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(618): CodeIgniter\Model->doFindAll(0, 0)
+ 7 APPPATH\Controllers\RegionController.php(13): CodeIgniter\BaseModel->findAll()
+ 8 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\RegionController->index()
+ 9 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionController))
+10 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-08-06 14:05:32 --> mysqli_sql_exception: Duplicate entry '0' for key 'PRIMARY' in C:\xampp\htdocs\tarea1\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 C:\xampp\htdocs\tarea1\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `re...', 0)
+#1 C:\xampp\htdocs\tarea1\system\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `re...')
+#2 C:\xampp\htdocs\tarea1\system\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `re...')
+#3 C:\xampp\htdocs\tarea1\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `re...', Array, false)
+#4 C:\xampp\htdocs\tarea1\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\xampp\htdocs\tarea1\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 C:\xampp\htdocs\tarea1\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\xampp\htdocs\tarea1\app\Controllers\RegionController.php(35): CodeIgniter\Model->insert(Array)
+#8 C:\xampp\htdocs\tarea1\system\CodeIgniter.php(932): App\Controllers\RegionController->store()
+#9 C:\xampp\htdocs\tarea1\system\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionController))
+#10 C:\xampp\htdocs\tarea1\system\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\xampp\htdocs\tarea1\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-08-06 14:05:32 --> Duplicate entry '0' for key 'PRIMARY'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `regiones` (`nombre`, `descripcion`) VALUES (\'asdasdasd\', \'asdasdasd\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `regiones` (`nombre`, `descripcion`) VALUES (\'asdasdasd\', \'asdasdasd\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `regiones` (`nombre`, `descripcion`) VALUES (\'asdasdasd\', \'asdasdasd\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `regiones` (`nombre`, `descripcion`) VALUES (:nombre:, :descripcion:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\RegionController.php(35): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\RegionController->store()
+10 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\RegionController))
+11 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-06 23:59:43 --> Undefined variable $regiones
+in APPPATH\Views\departamentos\edit.php on line 47.
+ 1 APPPATH\Views\departamentos\edit.php(47): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $regiones', 'C:\\xampp\\htdocs\\tarea1\\app\\Views\\departamentos\\edit.php', 47)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\tarea1\\app\\Views\\departamentos\\edit.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('departamentos/edit', [], true)
+ 5 APPPATH\Controllers\DepartamentoController.php(61): view('departamentos/edit', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\DepartamentoController->edit('26')
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\DepartamentoController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
