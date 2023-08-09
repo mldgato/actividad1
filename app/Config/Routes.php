@@ -76,3 +76,7 @@ $routes->post('niveles/store','NivelController::store');
 $routes->get('niveles/edit/(:num)', 'NivelController::edit/$1');
 $routes->post('niveles/update/(:num)', 'NivelController::update/$1');
 $routes->get('niveles/delete/(:num)', 'NivelController::delete/$1');
+
+$routes->get('ciudadanos/index','CiudadanoController::index');
+$routes->get('ciudadanos/create','CiudadanoController::create');
+$routes->post('ciudadanos/store','CiudadanoController::store');
