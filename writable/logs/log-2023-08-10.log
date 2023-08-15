@@ -1,0 +1,33 @@
+CRITICAL - 2023-08-10 00:41:53 --> Undefined variable $validation
+in APPPATH\Views\ciudadanos\create.php on line 37.
+ 1 APPPATH\Views\ciudadanos\create.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $validation', 'C:\\xampp\\htdocs\\actividad1\\app\\Views\\ciudadanos\\create.php', 37)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\actividad1\\app\\Views\\ciudadanos\\create.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('ciudadanos/create', [], true)
+ 5 APPPATH\Controllers\CiudadanoController.php(40): view('ciudadanos/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\CiudadanoController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CiudadanoController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-10 01:07:50 --> Undefined property: CodeIgniter\View\View::$validator
+in APPPATH\Views\ciudadanos\create.php on line 37.
+ 1 APPPATH\Views\ciudadanos\create.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$validator', 'C:\\xampp\\htdocs\\actividad1\\app\\Views\\ciudadanos\\create.php', 37)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\actividad1\\app\\Views\\ciudadanos\\create.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('ciudadanos/create', [], true)
+ 5 APPPATH\Controllers\CiudadanoController.php(40): view('ciudadanos/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\CiudadanoController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CiudadanoController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-08-10 01:07:52 --> Undefined property: CodeIgniter\View\View::$validator
+in APPPATH\Views\ciudadanos\create.php on line 37.
+ 1 APPPATH\Views\ciudadanos\create.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: CodeIgniter\\View\\View::$validator', 'C:\\xampp\\htdocs\\actividad1\\app\\Views\\ciudadanos\\create.php', 37)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\actividad1\\app\\Views\\ciudadanos\\create.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1176): CodeIgniter\View\View->render('ciudadanos/create', [], true)
+ 5 APPPATH\Controllers\CiudadanoController.php(40): view('ciudadanos/create', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(932): App\Controllers\CiudadanoController->create()
+ 7 SYSTEMPATH\CodeIgniter.php(497): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\CiudadanoController))
+ 8 SYSTEMPATH\CodeIgniter.php(366): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

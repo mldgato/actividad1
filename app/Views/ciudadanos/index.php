@@ -47,7 +47,7 @@ if (isset($_SESSION['message'])) {
                             ?>
                                 <tr>
                                     <td><?= $ciudadano->dpi; ?></td>
-                                    <td><?= $ciudadano->dpi; ?></td>
+                                    <td><?= $ciudadano->apellido; ?></td>
                                     <td><?= $ciudadano->nombre; ?></td>
                                     <td><?= $ciudadano->tel_movil; ?></td>
                                     <td><?= $ciudadano->email; ?></td>

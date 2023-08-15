@@ -80,3 +80,6 @@ $routes->get('niveles/delete/(:num)', 'NivelController::delete/$1');
 $routes->get('ciudadanos/index','CiudadanoController::index');
 $routes->get('ciudadanos/create','CiudadanoController::create');
 $routes->post('ciudadanos/store','CiudadanoController::store');
+$routes->get('ciudadanos/edit/(:num)', 'CiudadanoController::edit/$1');
+$routes->post('ciudadanos/update/(:num)', 'CiudadanoController::update/$1');
+$routes->get('ciudadanos/delete/(:num)', 'CiudadanoController::delete/$1');
